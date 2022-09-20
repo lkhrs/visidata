@@ -1,0 +1,24 @@
+{
+  "name": "visidata",
+  "version": "2.10.1",
+  "description": "A terminal spreadsheet multitool for discovering and arranging data",
+  "private": true,
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkhrs/visidata.git"
+  },
+  "author": "Saul Pwanson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lkhrs/visidata/issues"
+  },
+  "homepage": "https://github.com/lkhrs/visidata#readme"
+}
